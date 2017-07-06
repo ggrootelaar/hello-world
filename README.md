@@ -1,5 +1,5 @@
 # hello-world
 
-I am Gijs, also known as Guus (being a bad-ass viking and all).
+High five to you all, up top!
 
 *Praise the sun!*
