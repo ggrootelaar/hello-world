@@ -1,2 +1,5 @@
 # hello-world
-My very first repository!
+
+I am Gijs, also known as Guus (being a bad-ass viking and all).
+
+*Praise the sun!*
